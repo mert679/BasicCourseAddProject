@@ -11,7 +11,7 @@ const courseMap = {
     Kompleweb:Kompleweb
 }
 export function Course(props) {
-    console.log(props.course);
+
     return(
         <div className="img_wrapper">
 
